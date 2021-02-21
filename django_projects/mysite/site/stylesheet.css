@@ -1,0 +1,43 @@
+body{
+	font-family: courier;
+	background-color: #965
+
+}
+/*header, footer {
+	background-color: #008080
+}*/
+
+section{
+	background-color: #666666
+}
+h1{
+	font-family: cursive;
+	font-style: italic;
+	font-size:200%;
+	color:#B3B3B3;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+.one, .two{
+	text-decoration: none;
+	color: black;
+	
+}
+
+nav, .emma{
+	text-align:center;
+}
+	
+p{
+	font-family:sans-serif;
+	text-align:center;
+	line-height: 150%
+}
+h2{
+	text-align: center;
+	color:#b3b3b3;
+}
